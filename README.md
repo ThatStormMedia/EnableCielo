@@ -14,7 +14,6 @@ The map runs edge to edge, and the app rail and map buttons float over it instea
 | --- | --- |
 | ![Home screen, dark theme](docs/images/home-night.png) | ![Home screen, light theme](docs/images/home-light.png) |
 | ![Spotify player, dark theme](docs/images/now-playing-dark.png) | ![Spotify player, light theme](docs/images/now-playing-light.png) |
-| ![App launcher, dark theme](docs/images/app-launcher-dark.png) | ![App launcher, light theme](docs/images/app-launcher-light.png) |
 | ![Android Auto settings, dark theme](docs/images/settings-dark.png) | ![Theme setting, light theme](docs/images/settings-theme-light.png) |
 
 What has been confirmed so far, on Google's Desktop Head Unit at 1280 x 720:
